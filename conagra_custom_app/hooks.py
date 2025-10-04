@@ -4,6 +4,8 @@ app_publisher = "mohamed sayed"
 app_description = "custom-app"
 app_email = "mohameddbs53@gmail.com"
 app_license = "mit"
+app_include_css = "/assets/conagra_custom_app/css/custom.css"
+app_include_js = "/assets//conagra_custom_app/custom.js"
 
 # Apps
 # ------------------

@@ -1,0 +1,98 @@
+/* ----------------------------login------------------------------ */
+button.btn.btn-sm.btn-primary.btn-block.btn-login {
+    background: linear-gradient(90deg, #18753e 0%, #1c8a49 60%, #60de94 100%) !important;
+}
+
+/* ----------------------------login------------------------------ */
+
+.navbar {
+    background: linear-gradient(90deg, #18753e 0%, #1c8a49 60%, #60de94 100%) !important;
+}
+
+.navbar a {
+    color: white;
+}
+
+ul#awesomplete_list_1 {
+    background: linear-gradient(90deg, #18753e 0%, #1c8a49 60%, #60de94 100%) !important;
+}
+
+.awesomplete>[role=listbox]>li:hover {
+    background: linear-gradient(135deg, #d4fcdc, #ffffff);
+}
+
+.awesomplete>[role=listbox]>li:hover a {
+    color: black;
+}
+
+
+
+.awesomplete>[role=listbox]>li[aria-selected=true] {
+    background: linear-gradient(135deg, #d4fcdc, #ffffff);
+}
+
+.awesomplete>[role=listbox]>li[aria-selected=true] a {
+    color: rgb(0, 0, 0);
+}
+
+#navbar-breadcrumbs li.disabled a {
+    color: #000000;
+    pointer-events: none;
+    background: #ffffff40;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+/* ------- user profile-------- */
+.dropdown-menu {
+    background: linear-gradient(90deg, #18753e 0%, #1c8a49 60%, #60de94 100%);
+}
+
+.dropdown-item {
+    color: rgb(255, 255, 255) !important;
+
+}
+
+.dropdown-item:hover {
+    background: linear-gradient(135deg, #d4fcdc, #ffffff);
+    color: black !important;
+}
+
+/* -------End user profile-------- */
+/* --------------------------------------------------------------------------------------------------- */
+.desk-sidebar .standard-sidebar-item.selected {
+    background: linear-gradient(135deg, #d4fcdc, #ffffff) !important;
+}
+
+.desk-sidebar .standard-sidebar-item:hover {
+    background: linear-gradient(135deg, #d4fcdc, #ffffff) !important;
+}
+
+
+.widget {
+    box-shadow: -1px -1px 3px 3px #00000005, 1px 1px 3px 3px #00000005 !important;
+}
+
+.widget.links-widget-box .link-item .link-content:hover {
+    color: var(--invert-neutral);
+    background: linear-gradient(135deg, #d4fcdc, #ffffff);
+}
+
+.widget.shortcut-widget-box:hover {
+    color: var(--invert-neutral);
+    background: linear-gradient(135deg, #d4fcdc, #ffffff);
+}
+
+.col-lg-2 {
+    box-shadow: -1px -1px 3px 3px #00000005, 1px 1px 3px 3px #00000005 !important;
+}
+
+.layout-main-section {
+    box-shadow: -1px -1px 3px 3px #00000005, 1px 1px 3px 3px #00000005 !important;
+}
+
+
+
+.list-row-container {
+    border: solid 0.2px #39ff3938;
+}
